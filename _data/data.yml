@@ -3,7 +3,7 @@
 #
 
 headermenu:
-    cover-letter: https://drive.google.com/file/d/1gOvLbjHHC4Yb-O6iw4MdX6hLoxBmX7aT/view?usp=sharing
+    cover-letter: https://drive.google.com/file/d/1oVNqUUZ-mMrzOfbYJYfojeMTimXBFZR_/view?usp=sharing
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -25,8 +25,8 @@ sidebar:
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://pm1.hzy10.com
-    download-pdf: https://drive.google.com/file/d/1ABuahMd0GBBzzalhWCDp4aWVTSceaAI1/view?usp=sharing
+    website-link: https://pm2.hzy10.com
+    download-pdf: https://drive.google.com/file/d/1DkNGMpVYv94mdh8Xjf7e-DV7iEsgTALy/view?usp=sharing
 
     characters:
       title: Characters
